@@ -1,5 +1,6 @@
 package ord.devops
 
-def printMes(content){
+//打印内容
+def PrintMes(content){
   println(content)
 }
